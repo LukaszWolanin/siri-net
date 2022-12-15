@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="siri">
+
+<xsd:include schemaLocation="acsb\acsb_accessibility-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="acsb\acsb_all-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="acsb\acsb_limitations-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="acsb\acsb_passengerMobility-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="datex2\DATEXIISchema_2_0RC1_2_0 with definitions.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_administration-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_allStopPlace-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_checkpoint-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_countries-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_equipment-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_location-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_modes-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_modification-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_path-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_stop-v0.3.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_time-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="ifopt\ifopt_types-v0.2.xsd"></xsd:include>
+<xsd:include schemaLocation="xml\xml.xsd"></xsd:include>
+<xsd:include schemaLocation=".\siri.xsd"></xsd:include>
+</xsd:schema>
