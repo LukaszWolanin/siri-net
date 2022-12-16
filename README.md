@@ -1,4 +1,4 @@
-# siri-net
+# siri-net [![.NET](https://github.com/LukaszWolanin/siri-net/actions/workflows/dotnet.yml/badge.svg)](https://github.com/LukaszWolanin/siri-net/actions/workflows/dotnet.yml)
 Repository contain generated contracts for SIRI standard.
 
 
