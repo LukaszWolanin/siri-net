@@ -1,4 +1,6 @@
 # siri-net
+Repository contain generated contracts for SIRI standard.
 
-generate c# classes from siri.xsd:
-xsd /n:SIRI ifopt\ifopt_location-v0.3.xsd ifopt\ifopt_modes-v0.2.xsd ifopt\ifopt_stop-v0.3.xsd acsb\acsb_accessibility-v0.3.xsd ifopt\ifopt_equipment-v0.3.xsd acsb\acsb_accessibility-v0.3.xsd ifopt\ifopt_path-v0.2.xsd ifopt\ifopt_checkpoint-v0.3.xsd datex2\DATEXIISchema_2_0RC1_2_0.xsd xml\xml.xsd siri.xsd siri_all_functionalServices.xsd /classes
+
+# SIRI
+SIRI is a CEN Technical Standard that specifies a European interface standard for exchanging information about the planned, current or projected performance of real-time public transport operations between different computer systems.
